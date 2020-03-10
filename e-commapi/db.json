@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "dobleh",
+      "password": "rahasia1",
+      "role":"admin"
+    },
+    {
+      "id": 2,
+      "username": "budi",
+      "password": "rahasia2",
+      "role":"user"
+    },
+    {
+      "id": 3,
+      "username": "tara",
+      "password": "rahasia3",
+      "role":"user"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Celana Chino",
+      "image": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/1/9/4523030/4523030_861cd490-60b3-48c5-b63e-62a9197dfd50_700_700.jpg",
+      "stock": 20,
+      "kategoriId": 3,
+      "harga": 250000,
+      "seen": 0,
+      "deskripsi": "Celana kebanggaan Cowo U-Mild"
+    },
+    {
+      "name": "Ganja Medis",
+      "image": "https://media.npr.org/assets/img/2019/03/19/weed-bud-bc500c4866252c287b190cd5fe679238b2a91982-s1600-c85.jpg",
+      "stock": 2,
+      "kategoriId": 4,
+      "harga": 500000,
+      "deskripsi": "melayang setinggi tingginya",
+      "id": 2
+    }
+  ],
+  "kategoris": [
+    {
+      "id": 1,
+      "nama": "pakaian"
+    },
+    {
+      "id": 2,
+      "nama": "elektronik"
+    },
+    {
+      "id": 3,
+      "nama": "mainan"
+    },
+    {
+      "id": 4,
+      "nama": "makanan"
+    }
+  ]
+}
